@@ -46,6 +46,6 @@ Si encuentras algún problema o tienes alguna pregunta, por favor abre un [issue
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT).
+Este software está protegido por derechos de autor y su uso está sujeto a los términos y condiciones de la licencia propietaria. Consulta el archivo `LICENSE.txt` incluido en el paquete de software para obtener más información sobre los términos de la licencia.
 
 
